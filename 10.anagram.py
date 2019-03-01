@@ -9,5 +9,5 @@ def is_anagram(string1,string2):
         return False
 string1=raw_input("enter the first string:")
 string2=raw_input("enter the second string:")
-is_anagram(string1,string2)
+print(is_anagram(string1,string2))
     
